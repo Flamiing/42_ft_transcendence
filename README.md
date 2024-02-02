@@ -25,5 +25,4 @@ Undoubtedly, the biggest challenge we faced was working on a project that requir
 However, learning web development and frameworks when we had never worked on any web projects before was definitely challenging. This project helped me learn a lot about various web concepts and how web applications are developed, which made me genuinely fall in love with this area of software development.
 
 ## Demo
-### COMING SOON.
-
+https://github.com/Flamiing/42_ft_transcendence/assets/58707234/7b4064f0-3a1d-4b85-8f6b-9f72ac510085
