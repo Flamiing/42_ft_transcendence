@@ -26,3 +26,9 @@ However, learning web development and frameworks when we had never worked on any
 
 ## Demo
 https://github.com/Flamiing/42_ft_transcendence/assets/58707234/7b4064f0-3a1d-4b85-8f6b-9f72ac510085
+
+## Made by:
+  - [Yoav](https://github.com/arikhativa)
+  - [Raul](https://github.com/llanahp)
+  - [Alvaro](https://github.com/dVaGaymer)
+  - [Amir (Me)](https://github.com/Flamiing)
